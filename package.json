@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-tree-dmk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The infinite-tree library for React.",
   "main": "lib/index.js",
   "scripts": {
@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "infinite-tree": "^1.17.1",
-    "react-tiny-virtual-list-dmk": "^2.2.1"
+    "react-tiny-virtual-list-dmk": "^2.2.2"
   },
   "devDependencies": {
     "@babel/cli": "~7.6.2",
@@ -70,8 +70,8 @@
     "jsdom": "~15.1.1",
     "lodash.debounce": "~4.0.8",
     "nib": "~1.1.2",
-    "react": "~16.10.0",
-    "react-dom": "~16.10.0",
+    "react": "~18.2.0",
+    "react-dom": "~18.2.0",
     "style-loader": "~1.0.0",
     "styled-components": "~4.4.0",
     "stylint": "~2.0.0",
