@@ -9,7 +9,7 @@
     "build-examples": "cd examples; webpack-cli",
     "test": "tap test/*.js --no-timeout --node-arg=--require --node-arg=@babel/register",
     "dist": "webpack-cli; BUILD_ENV=dist webpack-cli",
-    "release": "mkdir -p releases; cp -f dist/react-infinite-tree.css releases/react-infinite-tree-${npm_package_version}.css; cp -f dist/react-infinite-tree.js releases/react-infinite-tree-${npm_package_version}.js; cp -f dist/react-infinite-tree.min.js releases/react-infinite-tree-${npm_package_version}.min.js",
+    "release": "mkdir -p releases; cp -f dist/react-infinite-tree-dmk.css releases/react-infinite-tree-dmk-${npm_package_version}.css; cp -f dist/react-infinite-tree-dmk.js releases/react-infinite-tree-dmk-${npm_package_version}.js; cp -f dist/react-infinite-tree-dmk.min.js releases/react-infinite-tree-dmk-${npm_package_version}.min.js",
     "lint": "npm run eslint",
     "eslint": "eslint ./src",
     "eslint:fix": "eslint --fix ./src",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cheton/react-infinite-tree.git"
+    "url": "https://github.com/poiz777/react-infinite-tree.git"
   },
   "author": "Cheton Wu <cheton@gmail.com>",
   "license": "MIT",

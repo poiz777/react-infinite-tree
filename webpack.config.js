@@ -12,7 +12,7 @@ module.exports = {
     entry: path.resolve(__dirname, 'lib/index.js'),
     output: {
         path: path.join(__dirname, 'dist'),
-        filename: env === 'dist' ? 'react-infinite-tree.min.js' : 'react-infinite-tree.js',
+        filename: env === 'dist' ? 'react-infinite-tree-dmk.min.js' : 'react-infinite-tree-dmk.js',
         libraryTarget: 'commonjs',
         library: 'InfiniteTree'
     },

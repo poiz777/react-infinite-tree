@@ -2,3 +2,6 @@ npm-debug.log
 /.nyc_output
 /coverage
 /releases
+
+/.idea
+/_ignore_
