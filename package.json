@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-tree-dmk",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "The infinite-tree library for React.",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/poiz777/react-infinite-tree.git"
+    "url": "https://github.com/cheton/react-infinite-tree.git"
   },
   "author": "Cheton Wu <cheton@gmail.com>",
   "license": "MIT",

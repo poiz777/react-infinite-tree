@@ -5,3 +5,16 @@ npm-debug.log
 
 /.idea
 /_ignore_
+/.github
+/docs
+/media
+/examples
+/src
+/test
+.eslintrc
+.stylintrc
+.travis.yml
+babel.config.js
+setupTests.js
+webpack.config.js
+
