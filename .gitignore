@@ -5,3 +5,9 @@ package-lock.json
 /coverage
 /lib
 /releases
+
+
+/.idea
+/_ignore_
+/.github
+

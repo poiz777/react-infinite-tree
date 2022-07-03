@@ -38,11 +38,11 @@
     "tree"
   ],
   "peerDependencies": {
-    "react": "^0.14.0 || >=15.0.0"
+    "react": "^0.14.0 || >=18.2.0"
   },
   "dependencies": {
-    "infinite-tree": "^1.16.2",
-    "react-tiny-virtual-list": "^2.2.0"
+    "infinite-tree": "^1.17.1",
+    "react-tiny-virtual-list-dmk": "^2.2.1"
   },
   "devDependencies": {
     "@babel/cli": "~7.6.2",
